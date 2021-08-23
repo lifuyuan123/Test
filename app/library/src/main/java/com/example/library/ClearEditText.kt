@@ -1,4 +1,4 @@
-package com.example.test
+package com.example.library
 
 import android.content.Context
 import android.graphics.drawable.Drawable
